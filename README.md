@@ -20,6 +20,12 @@ Creating a Great Writeup
 For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
 
 1. Describe the pipeline
+PIPELINE-----
+1- converting image to gray scale
+2- blurring the image & then applying Cany Edge Detection
+3- getting the region of interest
+4- finding hough lines & drawing them
+5- taking weighted average of orginal image and lane drawn image
 
 2. Identify any shortcomings
 
