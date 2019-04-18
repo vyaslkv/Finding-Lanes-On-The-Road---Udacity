@@ -20,7 +20,8 @@ Creating a Great Writeup
 For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
 
 1. Describe the pipeline
-PIPELINE-----
+PIPELINE
+---
 1- converting image to gray scale
 2- blurring the image & then applying Cany Edge Detection
 3- getting the region of interest
@@ -28,9 +29,11 @@ PIPELINE-----
 5- taking weighted average of orginal image and lane drawn image
 
 2. Identify any shortcomings
-
+---
+Now the images are clear what if they are not.
 3. Suggest possible improvements
-
+---
+So, we need to make a robust method to to find lanes independent of surroundings
 We encourage using images in your writeup to demonstrate how your pipeline works.  
 
 All that said, please be concise!  We're not looking for you to write a book here: just a brief description.
